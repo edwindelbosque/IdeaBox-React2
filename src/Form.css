@@ -5,10 +5,13 @@ form {
   align-items: center;
   height: 200px;
   width: 300px;
+  background-color: #222222;
+  padding: 15px;
+  border-radius: 6px;
 }
 
 form input {
-  width: 300px;
+  width: 90%;
   height: 35px;
   font-size: 22px;
   padding-left: 10px;

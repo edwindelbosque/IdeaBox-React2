@@ -5,7 +5,10 @@ class Card extends Component {
 
   render() {
     return (
-      <h1>Card</h1>
+      <article>
+        <h1>This is a title</h1>
+        <p>This is the description.</p>
+      </article>
     );
   }
 }

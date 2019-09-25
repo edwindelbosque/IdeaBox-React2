@@ -1,0 +1,9 @@
+main {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  background-color: rgb(34, 34, 34);
+  padding: 30px;
+  border-radius: 15px;
+}

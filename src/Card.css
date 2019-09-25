@@ -1,0 +1,19 @@
+article {
+  background-color: #414141;
+  width: 270px;
+  height: 220px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+}
+
+article h1 {
+  width: 100%;
+  color: #a0ffd3;
+}
+
+article p {
+  width: 100%;
+}

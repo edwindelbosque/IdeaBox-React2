@@ -7,12 +7,14 @@ class Form extends Component {
     return (
       <form>
         <input
-          placeholder='Title'
           type='text'
+          placeholder='Title'
+          name='title'
         />
         <input
-          placeholder='Description'
           type='text'
+          placeholder='Description'
+          name='title'
         />
         <button>Create Idea</button>
       </form>
