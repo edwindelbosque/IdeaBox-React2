@@ -16,6 +16,21 @@ class Form extends Component {
     })
   }
 
+  handleClick = (event) => {
+    event.preventDefault();
+    const newIdea = {
+      title: this.state.title,
+      description: this.state.description,
+      id: Date.now()
+    }
+
+    this.props.submitIdea(newIdea);
+    this.setState({
+      title: '',
+      description: ''
+    })
+  }
+
   render() {
     return (
       <form>
@@ -33,7 +48,10 @@ class Form extends Component {
           value={this.state.description}
           onChange={this.handleChange}
         />
-        <button>Create Idea</button>
+        <button
+          onClick={this.handleClick}>
+          Create Idea
+        </button>
       </form>
     )
   }
