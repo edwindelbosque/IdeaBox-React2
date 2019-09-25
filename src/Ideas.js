@@ -1,12 +1,17 @@
 import React, { Component } from 'react';
 import './Ideas.css';
-import './Card';
+import Card from './Card';
 
 class Ideas extends Component {
 
   render() {
     return (
-      <h1>Ideas</h1>
+      <div>
+        <h1>Ideas</h1>
+        <Card />
+        <Card />
+        <Card />
+      </div>
     );
   }
 }
