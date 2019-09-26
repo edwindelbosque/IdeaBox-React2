@@ -1,18 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Ideas.css';
 import Card from './Card';
 
-class Ideas extends Component {
+const Ideas = ({ ideas }) => {
 
-  render() {
-    return (
-      <main>
-        <Card />
-        <Card />
-        <Card />
-      </main>
-    );
-  }
+  return (
+    <main>
+      {ideas.map(oneIdea => <Card idea={oneIdea} />)}
+    </main>
+  );
 }
 
 export default Ideas;

@@ -1,16 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Card.css';
 
-class Card extends Component {
+const Card = ({ idea }) => {
 
-  render() {
-    return (
-      <article>
-        <h1>This is a title</h1>
-        <p>This is the description.</p>
-      </article>
-    );
-  }
+  return (
+    <article key={idea.id}>
+      <h1>{idea.title}</h1>
+      <p>{idea.description}</p>
+    </article>
+  );
 }
 
 export default Card;

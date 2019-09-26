@@ -22,7 +22,7 @@ class App extends Component {
       <div className='main-app'>
         <h1>IdeaBox</h1>
         <Form submitIdea={this.createIdea} />
-        <Ideas />
+        <Ideas ideas={this.state.ideas} />
       </div>
     )
   }
