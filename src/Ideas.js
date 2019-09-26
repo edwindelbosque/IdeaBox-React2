@@ -2,11 +2,21 @@ import React from 'react';
 import './Ideas.css';
 import Card from './Card';
 
-const Ideas = ({ ideas }) => {
+const Ideas = ({ ideas, deleteIdea }) => {
 
   return (
     <main>
-      {ideas.map(oneIdea => <Card idea={oneIdea} />)}
+      {ideas.map(idea => {
+        return (
+          <Card
+            title={idea.title}
+            description={idea.description}
+            id={idea.id}
+            key={idea.id}
+            deleteIdea={deleteIdea}
+          />
+        )
+      })}
     </main>
   );
 }

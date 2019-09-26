@@ -1,12 +1,15 @@
 import React from 'react';
 import './Card.css';
 
-const Card = ({ idea }) => {
+const Card = ({ title, description, deleteIdea, id }) => {
 
   return (
-    <article key={idea.id}>
-      <h1>{idea.title}</h1>
-      <p>{idea.description}</p>
+    <article>
+      <h1>{title}</h1>
+      <p>{description}</p>
+      <button onClick={() => deleteIdea(id)}>
+        DELETE
+      </button>
     </article>
   );
 }
