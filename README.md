@@ -13,7 +13,7 @@ This project is a bit of a more simplified spin-off on my [IdeaBox](https://gith
 - First and foremost, get my hands dirty exploring React.
 - Learn to pass information between components using props.
 - Distingish the use of state vs props and class components vs functional components.
-- Learn to write readable JSX (your render methods/return statements should be clean and simple).
+- Learn to write readable JSX with clean and simple render methods and return statements.
 - Use propTypes for every component receiving props.
 - Styling components separately.
 - Figure out the process of deploying a React app into GitHub Pages.
