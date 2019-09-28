@@ -21,7 +21,7 @@ This project is a bit of a more simplified spin-off on my [IdeaBox](https://gith
 ## UI notes
 
 I wanted to implement a dark-mode this time around, using not a complete dark contrast to make it easier on the eyes.
-Used bright pastel colors and a flat design with subtle drop-shadows to create a simple depth in the UI.
+Used bright pastel colors, subtle round-edges and a flat design with subtle drop-shadows to create little depth in the UI.
 
 ## Built with:
 
