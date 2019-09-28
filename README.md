@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project is a bit of a more simplified spin-off on my [IdeaBox](https://edwindelbosque.github.com/IdeaBox) notes app I did with another two developers a few months ago using core JS. I wanted to recreate this project using JS framework React for the first time. I thought it was a good opportunity to recreate a past project to be able to compare the differences in syntax using the same logic.
+This project is a bit of a more simplified spin-off on my [IdeaBox](https://github.com/edwindelbosque/IdeaBox) notes app I did with another two developers a few months ago using core JS. I wanted to recreate this project using JS framework React for the first time. I thought it was a good opportunity to recreate a past project to be able to compare the differences in syntax using the same logic.
 
 <img width="1431" alt="Screen Shot 2019-09-28 at 3 15 33 PM" src="https://user-images.githubusercontent.com/48811985/65822651-5fcf2380-e237-11e9-8040-d21648ead534.png">
 
