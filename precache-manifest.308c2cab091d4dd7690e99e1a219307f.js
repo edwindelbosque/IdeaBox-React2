@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4dffeb18867204afc47b27c115ca0a5d",
+    "revision": "86a048ec0b0bb41891fd8722aa32f62d",
     "url": "%20//edwindelbosque.github.io/ideabox-react2/index.html"
   },
   {
