@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/precache-manifest.2f7c7c74ae12facb6c1373123405fabf.js"
+  "%20//edwindelbosque.github.io/ideabox-react2/precache-manifest.f3c777aa1e09fbc6a60b63eb94e1d7c0.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("%20//edwindelbosque.github.io/ideabox-react2/public/index.html/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("%20//edwindelbosque.github.io/ideabox-react2/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });

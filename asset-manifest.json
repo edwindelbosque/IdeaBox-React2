@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/css/main.4edc358f.chunk.css",
-    "main.js": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/js/main.6904f8f0.chunk.js",
-    "main.js.map": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/js/main.6904f8f0.chunk.js.map",
-    "runtime-main.js": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/js/runtime-main.9d45b09a.js",
-    "runtime-main.js.map": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/js/runtime-main.9d45b09a.js.map",
-    "static/js/2.9945a889.chunk.js": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/js/2.9945a889.chunk.js",
-    "static/js/2.9945a889.chunk.js.map": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/js/2.9945a889.chunk.js.map",
-    "index.html": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/index.html",
-    "precache-manifest.2f7c7c74ae12facb6c1373123405fabf.js": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/precache-manifest.2f7c7c74ae12facb6c1373123405fabf.js",
-    "service-worker.js": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/service-worker.js",
-    "static/css/main.4edc358f.chunk.css.map": "%20//edwindelbosque.github.io/ideabox-react2/public/index.html/static/css/main.4edc358f.chunk.css.map"
+    "main.css": "%20//edwindelbosque.github.io/ideabox-react2/static/css/main.4edc358f.chunk.css",
+    "main.js": "%20//edwindelbosque.github.io/ideabox-react2/static/js/main.b02f2169.chunk.js",
+    "main.js.map": "%20//edwindelbosque.github.io/ideabox-react2/static/js/main.b02f2169.chunk.js.map",
+    "runtime-main.js": "%20//edwindelbosque.github.io/ideabox-react2/static/js/runtime-main.4c23dbd7.js",
+    "runtime-main.js.map": "%20//edwindelbosque.github.io/ideabox-react2/static/js/runtime-main.4c23dbd7.js.map",
+    "static/js/2.9945a889.chunk.js": "%20//edwindelbosque.github.io/ideabox-react2/static/js/2.9945a889.chunk.js",
+    "static/js/2.9945a889.chunk.js.map": "%20//edwindelbosque.github.io/ideabox-react2/static/js/2.9945a889.chunk.js.map",
+    "index.html": "%20//edwindelbosque.github.io/ideabox-react2/index.html",
+    "precache-manifest.f3c777aa1e09fbc6a60b63eb94e1d7c0.js": "%20//edwindelbosque.github.io/ideabox-react2/precache-manifest.f3c777aa1e09fbc6a60b63eb94e1d7c0.js",
+    "service-worker.js": "%20//edwindelbosque.github.io/ideabox-react2/service-worker.js",
+    "static/css/main.4edc358f.chunk.css.map": "%20//edwindelbosque.github.io/ideabox-react2/static/css/main.4edc358f.chunk.css.map"
   }
 }
